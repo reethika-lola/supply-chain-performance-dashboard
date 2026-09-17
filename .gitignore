@@ -1,0 +1,8 @@
+# Source data and generated outputs
+data/raw/*.csv
+data/processed/*.csv
+*.twb
+*.twbx
+*.hyper
+.env
+.DS_Store
